@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "777b07b7c3d5f3ee",
+        "id": "9c312d93c6cf16ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc38ac4e04b3911",
+            "id": "69c2f172dd057fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "41690d1fcaa0fbfd",
@@ -136,6 +136,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc38ac4e04b3911",
-  "lastOpenFiles": []
+  "active": "69c2f172dd057fe2",
+  "lastOpenFiles": [
+    "Passport authentication.md"
+  ]
 }
