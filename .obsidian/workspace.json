@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "7274f4e9718d7795",
+    "type": "split",
+    "children": [
+      {
+        "id": "777b07b7c3d5f3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc38ac4e04b3911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passport authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52ab49c87a6252dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2217ac1321983a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab52205a6623319",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1096387ce7522e33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7577f45b987c4065",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41690d1fcaa0fbfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c2ef8b1837c5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe2208692ee5adf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Passport authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "889a540fa3cfc46f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Passport authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "812e3566d2a9d28b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0434546b0b75785",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Passport authentication.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5dc38ac4e04b3911",
+  "lastOpenFiles": []
+}
