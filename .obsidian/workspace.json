@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b174cad55774b0d8",
+        "id": "6658f601d4746677",
         "type": "tabs",
         "children": [
           {
-            "id": "1494dc0a7486ff64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React Command in Laravel.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9924f78710e0317",
+            "id": "7b70c42627948fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "24317c38d581d639",
+            "id": "5cf3233cebc710b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/UI.md",
+                "file": "Laravel/Use of Local Storage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/UI.md",
+                "file": "Laravel/Use of Local Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/UI.md",
+                "file": "Laravel/Use of Local Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/UI.md"
+                "file": "Laravel/Use of Local Storage.md"
               }
             }
           }
@@ -161,11 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24317c38d581d639",
+  "active": "5cf3233cebc710b4",
   "lastOpenFiles": [
     "React/React Command in Laravel.md",
-    "Laravel/Essential Php Artisan Command.md",
     "Laravel/Passport authentication.md",
+    "Laravel/Essential Php Artisan Command.md",
+    "Flutter/UI.md",
     "Passport authentication.md"
   ]
 }
